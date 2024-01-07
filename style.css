@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box ;
+    background-color:rgb(183, 231, 222)
+}
+.clm{
+    float: right;
+    height: 38%;
+    width: 28%;
+    padding: 1%;
+    margin: right 20% ;
+}
+.clm img{
+    height: 270px;
+    background-color: rgb(246, 244, 239);
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.clm img:hover{
+    height: 250px;
+    background-color:cadetblue
+    ;width: 15%;
+}
+
+
+
